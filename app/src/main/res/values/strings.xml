@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CustomDatePicker</string>
+    <string name="arrow_back">arrow back</string>
+    <string name="expand_date">expand date</string>
+    <string name="specify_time">Specify time</string>
+    <string name="checkout">Checkout</string>
+    <string name="from_to">from %1$s to %2$s</string>
+    <string name="select_rental_time">Select rental time</string>
+    <string name="years">Years</string>
+    <string name="months">Months</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="start">Start</string>
+</resources>
